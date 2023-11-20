@@ -3,8 +3,10 @@
 ### Proje Kurulumu
 
 Projeyi öncelikle forklayın ve clone edin.
-Daha sonra projeyi IntellijIDEA kullanarak açınız. README.md dosyasını dikkatli bir şekilde okuyarak istenenleri yapmaya çalışın.
-Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
+Daha sonra projeyi IntellijIDEA kullanarak açınız. README.md dosyasını dikkatli bir şekilde okuyarak istenenleri yapmaya
+çalışın.
+Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projelerimizi belli klasör kalıplarında saklamak
+işimizi kolaylaştırmak adına iyi bir alışkanlıktır.
 Örnek bir Lokasyon: Workintech/Sprint_1/Etud.
 
 ### Hedeflerimiz:
@@ -34,7 +36,6 @@ isPerfectNumber(28); => true dönmeli (1+2+4+7+14=28)
 isPerfectNumber(5); => false dönmeli (kendisi dışındaki tek böleni 1)
 
 isPerfectNumber(-1); => false dönmeli(parametre 0'dan küçük olamaz)
-
 
 ### Sayıları Kelimelere Dök
 
